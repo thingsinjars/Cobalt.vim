@@ -55,6 +55,9 @@ hi Todo  guifg=#0088ff guibg=NONE gui=inverse,bold,italic
 hi Type  guifg=#ffdd00 guibg=NONE gui=NONE
 hi Underlined  guifg=NONE guibg=NONE gui=underline
 
+hi HighlightedBlock guibg=#2d4557
+hi SignColumn guibg=#e3e3e3
+
 hi rubyClass  guifg=#ff9d00 guibg=NONE gui=NONE
 hi rubyFunction  guifg=#ffdd00 guibg=NONE gui=NONE
 hi rubyInterpolationDelimiter  guifg=NONE guibg=NONE gui=NONE
