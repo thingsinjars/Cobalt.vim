@@ -141,9 +141,3 @@ hi link cssTableProp cssProp
 hi link cssUIProp cssProp
 
 hi cssFontAttr guifg=#ef9399
-
-:set guifont=monaco:h12
-au WinEnter * set cursorline
-set cursorline
-set linespace=1
-set numberwidth=6
